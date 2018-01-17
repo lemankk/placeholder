@@ -1,4 +1,13 @@
 {
+    
+    "name": "lemankk/placeholder",
+    "description" : "A forked version of image placeholder generation function class. This fork cloned from @img-src/placeholder.",
+    "license": "MIT",
+    "version": "0.1",
+    "type": "library",
+    "autoload": {
+        "files": ["i/placeholder.class.php"]
+    },
     "require-dev": {
         "phpunit/phpunit": "*"
     }
